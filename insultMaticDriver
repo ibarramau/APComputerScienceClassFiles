@@ -1,0 +1,10 @@
+public class InsultGen {
+	public static void main(String[] args) {
+		
+	  	
+		PhraseMatic firstTalk = new insultMatic();
+		System.out.print(firstTalk.makeInsult());
+
+	}
+
+}
